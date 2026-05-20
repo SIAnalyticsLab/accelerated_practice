@@ -1,5 +1,6 @@
 ---
 title: "TIPS DASHBOARD | RESTAURANT BILLING INSIGHTS"
+author: "SI Analytics"
 format: dashboard
 page-layout: custom
 ---
